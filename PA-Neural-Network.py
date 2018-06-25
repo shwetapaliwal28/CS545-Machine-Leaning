@@ -1,4 +1,4 @@
-# CS545 : Programming Assignment-1
+# CS545 : Programming Assignment-1 Neural Network
 # Shweta Paliwal
 
 #A neural network with one hidden layer to recognize MNIST handwritten digits. 
